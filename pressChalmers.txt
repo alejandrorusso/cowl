@@ -1,0 +1,50 @@
+New privacy system could revolutionize the safety of web surfing
+
+To enhance functionality, many of today's web pages are constructed by
+assembling third-party building blocks coming from different companies or
+independent web developers. For example, web pages often include third-party
+maps when displaying locations of interest. The complexity of modern web pages
+might cause third-party content to accidentally leak users' private data. To
+make things even worse, third-party content can also be malicious, hidden behind
+seemingly legitimate web sites. By merely visiting a web page, users can set in
+motion pernicious behaviors, which might lead to expose their private data to
+unauthorized parties.
+
+Researchers from Chalmers, Google, Mozilla, Stanford University, and University
+College of London (UCL) have built a new system called 'Confinement with Origin
+Web Labels', or COWL, that protects Internet users’ privacy, while flexibly
+allowing web applications to combine content from different web sites. COWL
+provides a property known as ‘confinement’, which has been known since the
+1970s, but proven difficult to achieve in practical systems like web
+browsers. What makes COWL unique is its minimalist design: it naturally extends
+the existing web security model with three core concepts on top of which
+developers can build privacy preserving web-services. This simplicity, and its
+low run-time overhead, are key features making the system attractive to web
+developers.
+
+COWL works with Mozilla’s Firefox and the open-source version of Google’s Chrome
+web browsers. Testing of COWL prototypes for the Chrome and Firefox web browsers
+shows the system provides strong security without perceptibly slowing the
+loading speed of web pages. Following today's announcement, COWL will be freely
+available for download from http://cowl.ws.
+
+The team behind the development of COWL is composed by PhDs students Deian
+Stefan and Edward Z. Yang from Stanford (working in collaboration with Mozilla),
+Petr Marchenko from Google (who recently graduated as a PhD from UCL),
+Prof. Brad Karp (UCL), Prof. David Mazières (Stanford), and Prof. Alejandro
+Russo (Chalmers). Relevant for our institution, COWL's design has been
+influenced by results drawing from an active collaboration between Prof. Russo
+and Prof. Mazières' teams during the last four years.
+
+-- More details about COWL
+
+* The development team describe COWL in a paper that will appear in the
+Proceedings of the 11th USENIX Symposium on Operating Systems Design and
+Implementation (OSDI 2014), a premier venue for operating systems research.
+
+https://www.usenix.org/conference/osdi14/technical-sessions/presentation/stefan
+
+* Contact:
+
+  Alejandro Russo
+  russo@chalmers.se
