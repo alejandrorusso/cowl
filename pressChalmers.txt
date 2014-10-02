@@ -1,11 +1,11 @@
 New privacy system could revolutionize the safety of web surfing
 
 To enhance functionality, many of today's web pages are constructed by
-assembling third-party building blocks from different companies or
-independent web developers. For example, web pages often include third-party
-maps when displaying locations of interest. The complexity of modern web pages
-might cause third-party content to accidentally leak users' private data. To
-make things even worse, third-party content can also be malicious, hidden behind
+assembling building blocks from different companies or independent web
+developers. For example, web pages often include third-party maps when
+displaying locations of interest. The complexity of modern web pages might cause
+such third-party components to accidentally leak users' private data. To make
+things even worse, third-party content can also be malicious, hidden behind
 seemingly legitimate web sites. By merely visiting a web page, users can set in
 motion pernicious behaviors, which might lead to expose their private data to
 unauthorized parties.
