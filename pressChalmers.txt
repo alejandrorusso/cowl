@@ -13,16 +13,17 @@ unauthorized parties.
 For the last four years, Prof. Alejandro Russo (Chalmers) and Prof. David
 Mazières (Stanford) have been actively collaborating in developing new
 technology to preserve users' privacy. By joining efforts with Google, Mozilla,
-and the University College of London (UCL), researchers built a novel privacy
-system called 'Confinement with Origin Web Labels' or simply COWL. COWL protects
-Internet users’ privacy while flexibly allowing web applications to combine
-content from different web sites. COWL provides a property known as
-‘confinement’, which has been known since the 1970s, but proven difficult to
-achieve in widely deployed systems like web browsers. "What makes COWL unique is
-its minimalist design: it naturally extends the existing web security model with
-three core concepts on top of which developers can build privacy preserving
-web-services. This simplicity, and its low run-time overhead, are key features
-making the system attractive to web developers", said Prof. Russo.
+and the University College of London (UCL), a team of security researchers built
+a novel privacy system called 'Confinement with Origin Web Labels' or simply
+COWL. COWL protects Internet users’ privacy while flexibly allowing web
+applications to combine content from different web sites. COWL provides a
+property known as ‘confinement’, which has been known since the 1970s, but
+proven difficult to achieve in widely deployed systems like web browsers. "What
+makes COWL unique is its minimalist design: it naturally extends the existing
+web security model with three core concepts on top of which developers can build
+privacy preserving web-services. This simplicity, and its low run-time overhead,
+are key features making the system attractive to web developers", said
+Prof. Russo.
 
 COWL works with Mozilla’s Firefox and the open-source version of Google’s Chrome
 web browsers. Testing of COWL prototypes for the Chrome and Firefox web browsers
@@ -35,15 +36,15 @@ Deian Stefan --- working in collaboration with Mozilla --- and Edward Z. Yang,
 PhD. Petr Marchenko from Google, Prof. Brad Karp from UCL, Prof. David Mazières
 from Stanford, and Prof. Alejandro Russo from Chalmers.
 
--- More details about COWL
+More details about COWL:
 
-* The development team describe COWL in a paper that will appear in the
+The development team describe COWL in a paper that will appear in the
 Proceedings of the 11th USENIX Symposium on Operating Systems Design and
 Implementation (OSDI 2014), a premier venue for operating systems research.
 
 https://www.usenix.org/conference/osdi14/technical-sessions/presentation/stefan
 
-* Contact:
+Contact:
 
-  Alejandro Russo
-  russo@chalmers.se
+Alejandro Russo
+russo@chalmers.se
