@@ -2,10 +2,10 @@ New privacy system could revolutionize the safety of web surfing
 
 To enhance functionality, many of today's web pages are constructed by
 assembling building blocks from different companies or independent web
-developers. For example, web pages often include third-party maps when
-displaying locations of interest. The complexity of modern web pages might cause
-some third-party components to accidentally leak users' private data. To make
-things even worse, third-party content could be malicious, hidden behind
+developers, e.g., web pages often include third-party maps when displaying
+locations of interest. The diversity and complexity of web pages might cause
+third-party components to accidentally leak users' private data. To make the
+scenario even worse, third-party content could be malicious, hidden behind
 seemingly legitimate web sites. By merely visiting a web page, users can set in
 motion pernicious behaviors, which might lead to expose their private data to
 unauthorized parties.
@@ -13,10 +13,10 @@ unauthorized parties.
 For the last four years, Prof. Alejandro Russo (Chalmers) and Prof. David
 Mazières (Stanford) have been actively collaborating in developing new
 technology to preserve users' privacy. Joining efforts with Google, Mozilla, and
-the University College of London (UCL), researchers design a new novel system
-called 'Confinement with Origin Web Labels', or simply COWL. COWL protects
-Internet users’ privacy while flexibly allowing web applications to combine
-content from different web sites. COWL provides a property known as
+the University College of London (UCL), researchers have recently built a novel
+privacy system called 'Confinement with Origin Web Labels' or simply COWL. COWL
+protects Internet users’ privacy while flexibly allowing web applications to
+combine content from different web sites. COWL provides a property known as
 ‘confinement’, which has been known since the 1970s, but proven difficult to
 achieve in widely deployed systems like web browsers. "What makes COWL unique is
 its minimalist design: it naturally extends the existing web security model with
@@ -30,11 +30,10 @@ shows the system provides strong security without perceptibly slowing the
 loading speed of web pages. Following today's announcement, COWL will be freely
 available for download from http://cowl.ws.
 
-The team behind the development of COWL is composed by PhDs students Deian
-Stefan and Edward Z. Yang from Stanford (working in collaboration with Mozilla),
-Petr Marchenko from Google (who recently graduated as a PhD from UCL),
-Prof. Brad Karp (UCL), Prof. David Mazières (Stanford), and Prof. Alejandro
-Russo (Chalmers).
+The team behind the development of COWL is composed by Stanford's PhDs students
+Deian Stefan --- working in collaboration with Mozilla --- and Edward Z. Yang,
+PhD. Petr Marchenko from Google, Prof. Brad Karp from UCL, Prof. David Mazières
+from Stanford, and Prof. Alejandro Russo from Chalmers.
 
 -- More details about COWL
 
