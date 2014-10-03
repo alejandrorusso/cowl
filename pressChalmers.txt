@@ -12,11 +12,11 @@ unauthorized parties.
 
 For the last four years, Prof. Alejandro Russo (Chalmers) and Prof. David
 Mazières (Stanford) have been actively collaborating in developing new
-technology to preserve users' privacy. Joining efforts with Google, Mozilla, and
-the University College of London (UCL), researchers have recently built a novel
-privacy system called 'Confinement with Origin Web Labels' or simply COWL. COWL
-protects Internet users’ privacy while flexibly allowing web applications to
-combine content from different web sites. COWL provides a property known as
+technology to preserve users' privacy. By joining efforts with Google, Mozilla,
+and the University College of London (UCL), researchers built a novel privacy
+system called 'Confinement with Origin Web Labels' or simply COWL. COWL protects
+Internet users’ privacy while flexibly allowing web applications to combine
+content from different web sites. COWL provides a property known as
 ‘confinement’, which has been known since the 1970s, but proven difficult to
 achieve in widely deployed systems like web browsers. "What makes COWL unique is
 its minimalist design: it naturally extends the existing web security model with
