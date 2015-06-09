@@ -6,6 +6,14 @@
 
 #pragma once
 
+/*
+   Firefox building system includes this file twice when building under Windows
+   for an unknown reason.  To solve the problem, the definitions here need to be
+   idempotent to the #include privimite.
+*/
+#ifndef __IDEMPOTENT_WIN_PRIV__
+#define __IDEMPOTENT_WIN_PRIV__
+
 #include "mozilla/Attributes.h"
 #include "mozilla/ErrorResult.h"
 #include "mozilla/dom/Label.h"
@@ -70,3 +78,5 @@ private:
 
 } // namespace dom
 } // namespace mozilla
+
+#endif
