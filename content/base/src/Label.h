@@ -6,6 +6,9 @@
 
 #pragma once
 
+#ifndef Label_h__
+#define Label_h__
+
 #include "mozilla/Attributes.h"
 #include "mozilla/ErrorResult.h"
 #include "mozilla/dom/Role.h"
@@ -144,3 +147,5 @@ public:
 
 } // namespace dom
 } // namespace mozilla
+
+#endif

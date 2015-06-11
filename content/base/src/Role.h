@@ -6,6 +6,9 @@
 
 #pragma once
 
+#ifndef Role_h__
+#define Role_h__
+
 #include "mozilla/Attributes.h"
 #include "mozilla/ErrorResult.h"
 #include "nsCycleCollectionParticipant.h"
@@ -112,3 +115,6 @@ public:
 
 } // namespace dom
 } // namespace mozilla
+
+#endif
+
