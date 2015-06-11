@@ -4,8 +4,8 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-#ifndef mozilla_dom_LabeledBlob_h__
-#define mozilla_dom_LabeledBlob_h__
+#ifndef LabeledBlob_h__
+#define LabeledBlob_h__
 
 #include "mozilla/Attributes.h"
 #include "mozilla/ErrorResult.h"
@@ -90,4 +90,4 @@ private:
 } // namespace dom
 } // namespace mozilla
 
-#endif // mozilla_dom_LabeledBlob_h__
+#endif // LabeledBlob_h__
