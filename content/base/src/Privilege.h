@@ -11,8 +11,8 @@
    for an unknown reason.  To solve the problem, the definitions here need to be
    idempotent to the #include privimite.
 */
-#ifndef __IDEMPOTENT_WIN_PRIV__
-#define __IDEMPOTENT_WIN_PRIV__
+#ifndef Privilege_h__
+#define Privilege_h__
 
 #include "mozilla/Attributes.h"
 #include "mozilla/ErrorResult.h"
